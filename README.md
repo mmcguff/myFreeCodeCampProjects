@@ -1,0 +1,2 @@
+# Why?
+This reposity will house all of my freeCodeCampe projects.   I am turn this into a monorepo as some point for learning how to administer one of these but for now I am just putting all of my projects in one place.  If I fee like the projects get big or complicated enough, I may go ahead and divide these up into their own projects.  
